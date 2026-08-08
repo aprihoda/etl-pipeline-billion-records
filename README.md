@@ -33,5 +33,5 @@ Anne M. Prihoda
 |---|---|
 | `ETLPipeline_CreditRiskScorecard.sas` | The pipeline program — libraries, macros, processing calls, checks, report |
 | `SplitOversizedQuarters.ps1` | Loan-boundary split-and-gzip utility with built-in verification |
-| `ImportSession.txt` | The SAS session log of the processing runs |
+| `ImportSession.log` | The SAS session log of the processing runs |
 | `EtlPipeline_Report.pdf` | Pipeline report — overview, full processing record, grand totals |
