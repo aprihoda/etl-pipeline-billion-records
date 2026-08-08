@@ -1,10 +1,9 @@
 # ETL Pipeline: ~1.2 Billion Records Processed in a 5 GB Environment
 
-Feeds the credit risk scorecard: https://github.com/aprihoda/credit-risk-scorecard 
-Live site: https://aprihoda.github.io/credit-risk-scorecard/
-
-Fannie Mae Single-Family Loan Performance Data 
+Fannie Mae Single-Family Loan Performance Data  
 Anne M. Prihoda
+
+[Live site](https://aprihoda.github.io/credit-risk-scorecard/) · [Credit risk scorecard](https://github.com/aprihoda/credit-risk-scorecard)
 
 | | |
 |---|---|
